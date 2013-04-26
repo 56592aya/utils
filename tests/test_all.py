@@ -5,9 +5,9 @@ from numpy.testing import assert_allclose
 from datetime import datetime
 import copy
 
-import jrl_utils.src.common as common
-from jrl_utils.src.common import BadDataError
-import generic.src.generic_filter as generic_filter
+import utils.src.common as common
+from utils.src.common import BadDataError
+import utils.src.generic_filter as generic_filter
 
 
 """

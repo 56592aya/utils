@@ -2,6 +2,9 @@ Generic
 =======
 Contains code for generic repos.  
 
+To use
+------
+You must add the directory above `utils` to your PYTHONPATH
 
 Directories
 -----------
